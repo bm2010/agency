@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/bm2010/agency.svg?branch=master)](https://travis-ci.org/bm2010/agency)
+
 # README
 
 This README would normally document whatever steps are necessary to get the
